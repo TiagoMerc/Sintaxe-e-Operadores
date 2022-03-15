@@ -13,3 +13,8 @@ Sintaxe e Operadores no BootCamp da Digital Innovation One
  - Explicando a atividade
  
  - Atividade prática
+
+#### Variáveis e Tipos
+ - Apresentação do curso
+  
+ - Variáveis
